@@ -16,9 +16,13 @@
 
 \maketitle
 
+% Redefinir el nombre de la tabla de contenidos usando tocloft
+\renewcommand{\contentsname}{Contenido}
+
 \tableofcontents   % Aquí se genera la tabla de contenido
 \newpage
 \section{Problema de Programación Lineal}
+
 
 Consideramos un problema de programación lineal muy simple (o programa lineal, para abreviar):
 
@@ -290,6 +294,11 @@ A continuación se muestra el cronograma que obtendríamos con costos de almacen
 \end{figure}
 
 El patrón de este ejemplo es bastante general, y muchos problemas de control óptimo pueden resolverse mediante programación lineal de manera similar. Un ejemplo interesante es el juego "Moon Rocket Landing", un juego que fue popular para calculadoras programables (probablemente no lo suficientemente sofisticado como para sobrevivir en la competencia actual). Un módulo lunar con un suministro limitado de combustible está descendiendo verticalmente hacia la superficie lunar bajo la influencia de la gravedad, y en intervalos de tiempo elegidos puede encender sus cohetes para desacelerar el descenso (o incluso para comenzar a volar hacia arriba). El objetivo es aterrizar en la superficie con una velocidad (casi) nula antes de agotar todo el combustible. Se invita al lector a formular un programa lineal adecuado para determinar la cantidad mínima de combustible necesaria para aterrizar, dados los datos de entrada apropiados. Para la formulación de la programación lineal, primero tenemos que discretizar el tiempo (en el juego esto ya se hacía), pero con pasos de tiempo suficientemente cortos esto no hace diferencia en la práctica. Cabe señalar que este problema en particular puede resolverse de manera analítica, con un poco de cálculo (o incluso teoría matemática del control). Pero en situaciones ligeramente más complicadas, una solución analítica está fuera de alcance.
+
+\newpage
+
+\section{Integer Programming and LP Relaxation}
+
 
 \newpage
 

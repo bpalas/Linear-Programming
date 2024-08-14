@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1723598152.60169 "c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/main.tex" "build/main.pdf" "main" 1723598154.09182 0
+["pdflatex"] 1723598699.93892 "c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/main.tex" "build/main.pdf" "main" 1723598701.24325 0
   "C:/Users/benja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723597761 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/benja/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1723597768 12124 a495e978aa5fb4cfb73325f22e87db7a ""
   "C:/Users/benja/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723597769 11548 85d35e4466589877e3fa02d81dfd2de4 ""
@@ -161,9 +161,9 @@
   "build/../img/7.png" 1723597903 22402 661c8c727f23e82eb27a5b81243c0482 ""
   "build/../img/8.png" 1723597903 10294 2635040d3fc2a9e00cff01bdf989a2b6 ""
   "build/../img/9.png" 1723597903 10921 03a23e44a2a28a63f4e09b5edd947440 ""
-  "build/main.aux" 1723598153 2123 922662c095e483fc29c177c6daa77d4f "pdflatex"
-  "build/main.toc" 1723598153 811 819bcd3aa33d2799b7b7612a2e86b9e6 "pdflatex"
-  "c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/main.tex" 1723598152 63723 832ae922b3deddbbd6025a9cb89bcb8f ""
+  "build/main.aux" 1723598701 2250 4b107b21d674592e399fe86ff912fd5d "pdflatex"
+  "build/main.toc" 1723598701 897 7a2b115c0dfad2d18166cb1d1561a9e7 "pdflatex"
+  "c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/main.tex" 1723598697 63897 2737d8bcd8a4aedd02fdaffabe4e2d29 ""
   "img/1.png" 1723597903 36467 1fe1a8999a7113150dd9da5d883f02cf ""
   "img/10.png" 1723597903 18692 e12609e5da9a7190d8f8e61f3184588d ""
   "img/11.png" 1723597903 14797 aca4de29ad79e0d8f8aaafa8a81aa09f ""
@@ -181,7 +181,7 @@
   "img/7.png" 1723597903 22402 661c8c727f23e82eb27a5b81243c0482 ""
   "img/8.png" 1723597903 10294 2635040d3fc2a9e00cff01bdf989a2b6 ""
   "img/9.png" 1723597903 10921 03a23e44a2a28a63f4e09b5edd947440 ""
-  "main.tex" 1723598152 63723 832ae922b3deddbbd6025a9cb89bcb8f ""
+  "main.tex" 1723598697 63897 2737d8bcd8a4aedd02fdaffabe4e2d29 ""
   (generated)
   "build/main.aux"
   "build/main.log"

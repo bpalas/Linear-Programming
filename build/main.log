@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.13)  13 AUG 2024 21:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.13)  13 AUG 2024 21:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -475,7 +475,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <../img/1.png, id=13, 508.90125pt x 281.853pt>
 File: ../img/1.png Graphic file (type png)
 <use ../img/1.png>
-Package pdftex.def Info: ../img/1.png  used on input line 45.
+Package pdftex.def Info: ../img/1.png  used on input line 49.
 (pdftex.def)             Requested size: 276.00105pt x 152.86926pt.
 
 
@@ -483,7 +483,7 @@ Package pdftex.def Info: ../img/1.png  used on input line 45.
 <../img/2.png, id=25, 536.0025pt x 325.215pt>
 File: ../img/2.png Graphic file (type png)
 <use ../img/2.png>
-Package pdftex.def Info: ../img/2.png  used on input line 68.
+Package pdftex.def Info: ../img/2.png  used on input line 72.
 (pdftex.def)             Requested size: 276.00105pt x 167.4603pt.
 
 
@@ -491,12 +491,12 @@ Package pdftex.def Info: ../img/2.png  used on input line 68.
 <../img/3.png, id=34, 414.348pt x 283.0575pt>
 File: ../img/3.png Graphic file (type png)
 <use ../img/3.png>
-Package pdftex.def Info: ../img/3.png  used on input line 75.
+Package pdftex.def Info: ../img/3.png  used on input line 79.
 (pdftex.def)             Requested size: 276.00105pt x 188.54616pt.
 <../img/4.png, id=35, 406.51875pt x 253.54726pt>
 File: ../img/4.png Graphic file (type png)
 <use ../img/4.png>
-Package pdftex.def Info: ../img/4.png  used on input line 83.
+Package pdftex.def Info: ../img/4.png  used on input line 87.
 (pdftex.def)             Requested size: 276.00105pt x 172.14676pt.
 
 
@@ -505,17 +505,17 @@ Package pdftex.def Info: ../img/4.png  used on input line 83.
 [5 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/4.png>]
 
 [6]
-Overfull \hbox (7.08563pt too wide) in paragraph at lines 124--124
+Overfull \hbox (7.08563pt too wide) in paragraph at lines 128--128
 []|\OT1/cmr/bx/n/10 Zanahoria| 
  []
 
 
-Overfull \hbox (8.52321pt too wide) in paragraph at lines 124--124
+Overfull \hbox (8.52321pt too wide) in paragraph at lines 128--128
 []|\OT1/cmr/bx/n/10 Requerido
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
 \OT1/cmr/bx/n/10 por
  []
 
@@ -527,7 +527,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--124
 <../img/2.2.png, id=57, 591.4095pt x 227.04825pt>
 File: ../img/2.2.png Graphic file (type png)
 <use ../img/2.2.png>
-Package pdftex.def Info: ../img/2.2.png  used on input line 156.
+Package pdftex.def Info: ../img/2.2.png  used on input line 160.
 (pdftex.def)             Requested size: 276.00105pt x 105.95743pt.
 
 
@@ -535,7 +535,7 @@ Package pdftex.def Info: ../img/2.2.png  used on input line 156.
 <../img/2.3.png, id=62, 392.06474pt x 163.20975pt>
 File: ../img/2.3.png Graphic file (type png)
 <use ../img/2.3.png>
-Package pdftex.def Info: ../img/2.3.png  used on input line 207.
+Package pdftex.def Info: ../img/2.3.png  used on input line 211.
 (pdftex.def)             Requested size: 276.00105pt x 114.89352pt.
 
 
@@ -543,12 +543,12 @@ Package pdftex.def Info: ../img/2.3.png  used on input line 207.
 <../img/2.4.png, id=67, 416.15475pt x 236.68425pt>
 File: ../img/2.4.png Graphic file (type png)
 <use ../img/2.4.png>
-Package pdftex.def Info: ../img/2.4.png  used on input line 227.
+Package pdftex.def Info: ../img/2.4.png  used on input line 231.
 (pdftex.def)             Requested size: 276.00105pt x 156.98134pt.
 
 
 [11 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/2.4.png>]
-Overfull \hbox (7.70189pt too wide) in paragraph at lines 244--246
+Overfull \hbox (7.70189pt too wide) in paragraph at lines 248--250
 \OT1/cmr/m/n/10 Suponiendo que ini-cial-mente no hay exce-dente, es-table-ce-mos $\OML/cmm/m/it/10 s[] \OT1/cmr/m/n/10 = 0$ (si tom^^Saramos
  []
 
@@ -558,12 +558,12 @@ Overfull \hbox (7.70189pt too wide) in paragraph at lines 244--246
 <../img/2.5.png, id=76, 419.76825pt x 227.04825pt>
 File: ../img/2.5.png Graphic file (type png)
 <use ../img/2.5.png>
-Package pdftex.def Info: ../img/2.5.png  used on input line 281.
+Package pdftex.def Info: ../img/2.5.png  used on input line 285.
 (pdftex.def)             Requested size: 276.00105pt x 149.29105pt.
 <../img/2.6.png, id=77, 428.802pt x 224.037pt>
 File: ../img/2.6.png Graphic file (type png)
 <use ../img/2.6.png>
-Package pdftex.def Info: ../img/2.6.png  used on input line 288.
+Package pdftex.def Info: ../img/2.6.png  used on input line 292.
 (pdftex.def)             Requested size: 276.00105pt x 144.20705pt.
 
 
@@ -574,108 +574,110 @@ Package pdftex.def Info: ../img/2.6.png  used on input line 288.
 [15]
 
 [16]
-<../img/5.png, id=93, 672.111pt x 333.04425pt>
+
+[17]
+<../img/5.png, id=96, 672.111pt x 333.04425pt>
 File: ../img/5.png Graphic file (type png)
 <use ../img/5.png>
-Package pdftex.def Info: ../img/5.png  used on input line 374.
+Package pdftex.def Info: ../img/5.png  used on input line 383.
 (pdftex.def)             Requested size: 276.00105pt x 136.76245pt.
 
 
-[17 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/5.png>]
-<../img/6.png, id=98, 231.86626pt x 190.91325pt>
+[18 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/5.png>]
+<../img/6.png, id=101, 231.86626pt x 190.91325pt>
 File: ../img/6.png Graphic file (type png)
 <use ../img/6.png>
-Package pdftex.def Info: ../img/6.png  used on input line 402.
+Package pdftex.def Info: ../img/6.png  used on input line 411.
 (pdftex.def)             Requested size: 172.5pt x 142.0339pt.
 
-Overfull \hbox (20.5908pt too wide) in paragraph at lines 406--407
+Overfull \hbox (20.5908pt too wide) in paragraph at lines 415--416
 []\OT1/cmr/m/n/10 Entre las solu-ciones factibles $\OML/cmm/m/it/10 p$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 q$ \OT1/cmr/m/n/10 y $\OML/cmm/m/it/10 r$\OT1/cmr/m/n/10 , solo $\OML/cmm/m/it/10 r$ \OT1/cmr/m/n/10 es b^^Sasica. Ex-pre-sado geom^^Setricamente
  []
 
 
 
-[18 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/6.png>]
+[19 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/6.png>]
 
-[19]
-Overfull \hbox (2.50055pt too wide) in paragraph at lines 478--479
+[20]
+Overfull \hbox (2.50055pt too wide) in paragraph at lines 487--488
 []\OT1/cmr/m/n/10 El sigu-iente teo-rema trata so-bre la ex-is-ten-cia de solu-ciones ^^Soptimas y, adem^^Sas,
  []
 
 
 
-[20]
-
 [21]
-<../img/7.png, id=113, 492.03825pt x 181.8795pt>
+
+[22]
+<../img/7.png, id=116, 492.03825pt x 181.8795pt>
 File: ../img/7.png Graphic file (type png)
 <use ../img/7.png>
-Package pdftex.def Info: ../img/7.png  used on input line 521.
+Package pdftex.def Info: ../img/7.png  used on input line 530.
 (pdftex.def)             Requested size: 276.00105pt x 102.0211pt.
 
-Overfull \hbox (9.83392pt too wide) in paragraph at lines 527--528
+Overfull \hbox (9.83392pt too wide) in paragraph at lines 536--537
 \OT1/cmr/m/n/10 ciones, con-jun-tos con-vexos y fun-ciones con-vexas, est^^San es-trechamente rela-cionadas:
  []
 
 
-Overfull \hbox (14.94373pt too wide) in paragraph at lines 533--534
+Overfull \hbox (14.94373pt too wide) in paragraph at lines 542--543
 []\OT1/cmr/bx/n/10 Recubrimiento con-vexo y com-bi-na-ciones con-vexas. \OT1/cmr/m/n/10 Se ob-serva f^^Sacilmente
  []
 
 
 
-[22 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/7.png>]
-<../img/8.png, id=118, 419.76825pt x 87.32625pt>
+[23 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/7.png>]
+<../img/8.png, id=121, 419.76825pt x 87.32625pt>
 File: ../img/8.png Graphic file (type png)
 <use ../img/8.png>
-Package pdftex.def Info: ../img/8.png  used on input line 539.
+Package pdftex.def Info: ../img/8.png  used on input line 548.
 (pdftex.def)             Requested size: 276.00105pt x 57.41963pt.
 
-Overfull \hbox (4.88026pt too wide) in paragraph at lines 543--544
+Overfull \hbox (4.88026pt too wide) in paragraph at lines 552--553
 []\OT1/cmr/m/n/10 Esta no es una definici^^Son muy con-struc-tiva. El re-cubrim-iento con-vexo tambi^^Sen
  []
 
 
 
-[23 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/8.png>]
+[24 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/8.png>]
 
-[24]
-<../img/9.png, id=127, 549.85425pt x 178.266pt>
+[25]
+<../img/9.png, id=131, 549.85425pt x 178.266pt>
 File: ../img/9.png Graphic file (type png)
 <use ../img/9.png>
-Package pdftex.def Info: ../img/9.png  used on input line 607.
+Package pdftex.def Info: ../img/9.png  used on input line 616.
 (pdftex.def)             Requested size: 276.00105pt x 89.48094pt.
-<../img/10.png, id=128, 537.207pt x 168.63pt>
+<../img/10.png, id=132, 537.207pt x 168.63pt>
 File: ../img/10.png Graphic file (type png)
 <use ../img/10.png>
-Package pdftex.def Info: ../img/10.png  used on input line 617.
+Package pdftex.def Info: ../img/10.png  used on input line 626.
 (pdftex.def)             Requested size: 276.00105pt x 86.63828pt.
-<../img/11.png, id=129, 492.03825pt x 148.75575pt>
+<../img/11.png, id=133, 492.03825pt x 148.75575pt>
 File: ../img/11.png Graphic file (type png)
 <use ../img/11.png>
-Package pdftex.def Info: ../img/11.png  used on input line 626.
+Package pdftex.def Info: ../img/11.png  used on input line 635.
 (pdftex.def)             Requested size: 276.00105pt x 83.4411pt.
 
 
-[25 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/9.png> <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/10.png>]
+[26 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/9.png> <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/10.png>]
 
-[26 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/11.png>]
-<../img/12.png, id=140, 359.54324pt x 218.0145pt>
+[27 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/11.png>]
+<../img/12.png, id=143, 359.54324pt x 218.0145pt>
 File: ../img/12.png Graphic file (type png)
 <use ../img/12.png>
-Package pdftex.def Info: ../img/12.png  used on input line 650.
+Package pdftex.def Info: ../img/12.png  used on input line 659.
 (pdftex.def)             Requested size: 276.00105pt x 167.35936pt.
 
 
-[27 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/12.png>]
-Overfull \hbox (5.19495pt too wide) in paragraph at lines 673--674
+[28 <c:/Users/benja/OneDrive/Desktop/linear-programming/Linear-Programming/img/12.png>]
+Overfull \hbox (5.19495pt too wide) in paragraph at lines 682--683
 \OT1/cmr/m/n/10 parece bas-tante difer-ente, pero de he-cho, es un caso es-pe-cial de la nueva definici^^Son,
  []
 
 
 
-[28]
+[29]
 
-[29] (c:\Users\benja\OneDrive\Desktop\linear-programming\Linear-Programming\build\main.aux)
+[30] (c:\Users\benja\OneDrive\Desktop\linear-programming\Linear-Programming\build\main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
@@ -688,15 +690,15 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  15858 strings out of 473899
  332069 string characters out of 5726500
- 1939960 words of memory out of 5000000
+ 1940960 words of memory out of 5000000
  38477 multiletter control sequences out of 15000+600000
  567847 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,11n,107p,1505b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\benja\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\benja\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on c:\Users\benja\OneDrive\Desktop\linear-programming\Linear-Programming\build\main.pdf (29 pages, 640699 bytes).
+Output written on c:\Users\benja\OneDrive\Desktop\linear-programming\Linear-Programming\build\main.pdf (30 pages, 641670 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
+ 237 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
