@@ -1,0 +1,11 @@
+\contentsline {section}{Contents}{1}{}%
+\contentsline {section}{\numberline {1}Problema de Programación Lineal}{2}{}%
+\contentsline {section}{\numberline {2}Examples}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Diet Problem}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Flow in a Network}{9}{}%
+\contentsline {subsection}{\numberline {2.3}Ice Cream All Year Round}{11}{}%
+\contentsline {section}{\numberline {3}La teoría de la Programación Lineal}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Ecuación Formal}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Soluciones factibles básicas}{18}{}%
+\contentsline {subsection}{\numberline {3.3}ABC de la convexidad y los poliedros convexos.}{22}{}%
+\contentsline {subsection}{\numberline {3.4}Vertices y Soluciones Basicas factibles}{27}{}%
